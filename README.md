@@ -1,3 +1,8 @@
+Demo URL: https://hulu-clone-react-chi.vercel.app
+
+![alt text](https://github.com/szryldrm/hulu-clone-react/blob/main/public/hulu-clone-2-0.png?raw=true)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
